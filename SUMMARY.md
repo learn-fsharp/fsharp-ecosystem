@@ -1,6 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [General Purpose Libraries](general-purpose-libraries.md)
 
