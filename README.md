@@ -1,4 +1,3 @@
-My Awesome Book
-=======
+# A Tour of the F# Ecosystem
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+An overview of the libraries and tools to make F# your GSD language of choice.
